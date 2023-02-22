@@ -1,0 +1,3 @@
+GitHub: https://github.com/baichuan0113/hw2.git
+
+Heroku: https://hw2baichuan.herokuapp.com/movies
